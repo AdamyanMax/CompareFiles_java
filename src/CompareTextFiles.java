@@ -1,3 +1,7 @@
+/*
+* The GitHub repo: https://github.com/AdamyanMax/CompareFiles_java/
+* */
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
